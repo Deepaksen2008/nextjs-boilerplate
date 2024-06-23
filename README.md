@@ -32,16 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Screenshots 
 
-### Main Screen
-![Main Screen](main_screen.jpeg)
+Main Screen
 
-![setting](https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/7ca8c51a-a6a8-4959-9635-2990a882bfd7)
+### ![Home-page](https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/38dd50f4-6410-4043-bc33-74c500be8b7f)
 
+![Order-details](https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/48cbf445-e113-4ef4-ab7f-3a5dc70c595d)
 
-
-
-
-
+<a href="https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/38dd50f4-6410-4043-bc33-74c500be8b7f">
+  <img src="https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/38dd50f4-6410-4043-bc33-74c500be8b7f" alt="Home-page" width="400">
+</a>
+<a href="https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/48cbf445-e113-4ef4-ab7f-3a5dc70c595d">
+  <img src="https://github.com/Deepaksen2008/nextjs-boilerplate/assets/155048041/48cbf445-e113-4ef4-ab7f-3a5dc70c595d" alt="Order-details" width="400">
+</a>
 
 ## Deploy on Vercel
 
